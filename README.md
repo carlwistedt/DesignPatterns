@@ -1,7 +1,7 @@
 # DesignPatterns
 Mina DesignPatterns i C#
 
-*Creational Patterns*
+_Creational Patterns_
 
 Abstract Factory - 
 
@@ -27,7 +27,7 @@ Decorator -
 
 Facade - 
 
-Flyweight - 
+"Flyweight"
 > Object Cache - I.E. OrderCache of OrderEdits  that is not closed in OTServer
 
 Proxy - 
