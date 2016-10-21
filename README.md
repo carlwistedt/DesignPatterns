@@ -15,7 +15,7 @@ Singleton -
 
 
 
-*Structural Patterns*
+## Structural Patterns
 
 Adapter - 
 
@@ -27,14 +27,14 @@ Decorator -
 
 Facade - 
 
-"Flyweight"
+### Flyweight
 > Object Cache - I.E. OrderCache of OrderEdits  that is not closed in OTServer
 
 Proxy - 
 
 
 
-*Behavioral Patterns*
+## Behavioral Patterns
 
 Chain of Responsibility - 
 
