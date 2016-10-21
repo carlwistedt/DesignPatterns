@@ -28,6 +28,7 @@ Decorator -
 Facade - 
 
 Flyweight - 
+> Object Cache - I.E. OrderCache of OrderEdits  that is not closed in OTServer
 
 Proxy - 
 
@@ -66,7 +67,7 @@ Visitor -
 
 
 
-*Flyweight* - Object Cache - I.E. OrderCache of OrderEdits  that is not closed in OTServer
+*Flyweight* - 
 *Prototype* - Reuse of objects alread created that share alot of the same info
 *Facade* - A facade to complex code sequence. I.E. like makeOrder()
 *Proxy* - The Proxy pattern is used when you need to represent an object that is complex or time consuming to create with a simpler one. I.E. ImageLoading
