@@ -28,7 +28,8 @@ Decorator -
 Facade - 
 
 Flyweight
-> Object Cache - I.E. OrderCache of OrderEdits  that is not closed in OTServer
+> Pattern - The Flyweight pattern applies to a program using a huge number of objects that have part of their internal state in common where the other part of state can vary. The pattern is used when the larger part of the object can be made extrinsic (external to that object).
+> My Example - I.E. OrderCache of OrderEdits  that is not closed in OTServer
 
 Proxy - 
 
